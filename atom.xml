@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://kind-roentgen-fdb9c4.netlify.app</id>
+    <id>https://blog.gsdn.xyz</id>
     <title>星星狐</title>
-    <updated>2021-07-23T06:41:47.899Z</updated>
+    <updated>2021-07-23T06:56:24.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://kind-roentgen-fdb9c4.netlify.app"/>
-    <link rel="self" href="https://kind-roentgen-fdb9c4.netlify.app/atom.xml"/>
+    <link rel="alternate" href="https://blog.gsdn.xyz"/>
+    <link rel="self" href="https://blog.gsdn.xyz/atom.xml"/>
     <subtitle>星星狐的小屋</subtitle>
-    <logo>https://kind-roentgen-fdb9c4.netlify.app/images/avatar.png</logo>
-    <icon>https://kind-roentgen-fdb9c4.netlify.app/favicon.ico</icon>
+    <logo>https://blog.gsdn.xyz/images/avatar.png</logo>
+    <icon>https://blog.gsdn.xyz/favicon.ico</icon>
     <rights>All rights reserved 2021, 星星狐</rights>
     <entry>
         <title type="html"><![CDATA[欢迎光临星星狐的小屋,logo在右侧菜单栏]]></title>
-        <id>https://kind-roentgen-fdb9c4.netlify.app/post/huan-ying-guang-lin-wo-de-blog/</id>
-        <link href="https://kind-roentgen-fdb9c4.netlify.app/post/huan-ying-guang-lin-wo-de-blog/">
+        <id>https://blog.gsdn.xyz/post/huan-ying-guang-lin-wo-de-blog/</id>
+        <link href="https://blog.gsdn.xyz/post/huan-ying-guang-lin-wo-de-blog/">
         </link>
         <updated>2021-07-01T05:40:47.000Z</updated>
         <content type="html"><![CDATA[<p>欢迎光临星星狐的小屋,这是一个个人blog<br>
